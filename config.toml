@@ -1,2 +1,5 @@
 languageCode = "en-us"
 title = "My New Netlify Victor Hugo Site"
+backend:
+  name: git-gateway
+  branch: main #[master]から変更
